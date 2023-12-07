@@ -1,0 +1,11 @@
+Hritik is a very intelligent boy
+Hello Hritik
+Tell me about your self
+Tell me your hobby
+
+After adding the dot in the last.
+
+Hritik is a very intelligent boy.
+Hello Hritik.
+Tell me about your self.
+Tell me your hobby.
